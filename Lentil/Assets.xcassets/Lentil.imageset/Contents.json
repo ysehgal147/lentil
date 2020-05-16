@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Lentil.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
