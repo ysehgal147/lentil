@@ -1,4 +1,7 @@
-# Lentil
+# Lentil  
+<img src="https://raw.githubusercontent.com/ysehgal147/lentil/master/Lentil/appstore.png" alt="drawing" width="100"/>
+
+## Technology Used
 
 SwiftUI + CreateML
 
